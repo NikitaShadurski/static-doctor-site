@@ -1,4 +1,4 @@
-PS C:\Users\nikit\Desktop\Other> docker images       
+docker images       
 REPOSITORY                TAG       IMAGE ID       CREATED         SIZE
 docker101tutorial         latest    e7203c65fdc3   2 days ago      28.9MB
 busybox                   latest    bc01a3326866   12 days ago     1.24MB
